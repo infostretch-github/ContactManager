@@ -34,7 +34,7 @@ import android.widget.SimpleCursorAdapter;
 public final class ContactManager extends Activity
 {
 
-    public static final String TAG = "ContactManager_f2";
+    public static final String TAG = "ContactManager_f3";
 
     private Button mAddAccountButton;
     private ListView mContactList;
